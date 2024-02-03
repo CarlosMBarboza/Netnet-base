@@ -1,10 +1,4 @@
-# Recreando Netflix
-
-**Diseñado con 💗 por [leonidasesteban.com](https://leonidasesteban.com/)**
-
-Puedes encontrar el diseño, en el siguiente [archivo de figma](https://www.figma.com/file/I5GfzHndh0ypq0wFHpnjoQ/Netflix-Mobile?node-id=15%3A164).
-
-Si deseas, [aquí](https://www.figma.com/proto/I5GfzHndh0ypq0wFHpnjoQ/Netflix-Mobile?node-id=30%3A209&viewport=1164%2C605%2C0.9113100171089172&scaling=scale-down) puedes ver un prototipo interactivo del proyecto.
+# Proyecto Netflix
 
 ### Colores
 
@@ -20,10 +14,6 @@ Si deseas, [aquí](https://www.figma.com/proto/I5GfzHndh0ypq0wFHpnjoQ/Netflix-Mo
 ### Tipografia
 
 La unica tipografia en este reto es:
-
-- Avenir Next
-
-No se encuentra dentro de Google Fonts pero la encontrar los archivos de la fuente de la carpeta de `fonts` y puedes añadirla a tu proyecto usando la propiedad de css llamada [font-face](https://developer.mozilla.org/es/docs/Web/CSS/@font-face):
 
 ```css
 @font-face {
